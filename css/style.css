@@ -1,0 +1,42 @@
+body {
+	width: 1200px;
+	margin: 10px auto;
+	height: auto;
+}
+
+.mobile {
+	display: inline-block;
+	border: 2px solid black;
+	box-sizing: border-box;
+	width: 30%;
+	padding: 10px;
+	margin: 12px;
+	color: yellow;
+	text-align: justify;
+	background-color: red;
+}
+
+.web {
+	display: inline-block;
+	border: 2px solid black;
+	box-sizing: border-box;
+	width: 30%;
+	padding: 10px;
+	margin: 12px;
+	color: white;
+	text-align: justify;
+	background-color: coral; 
+}
+
+.mobile h1 {
+	text-align: center;
+}
+
+.web h1 {
+	text-align: center;
+}
+
+.btn {
+	background: blue;
+	color: white;
+}
